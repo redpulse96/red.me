@@ -27,11 +27,14 @@ This is my portfolio. [Portfolio](https://redpulse96.github.io/red.me)
 </center>  
 
 
-## Follow me, Let's talk, get some coffee.
+## Follow me, Let's have a conversation.
 
 <p align="center">
 <a href="https://twitter.com/SyedRedhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="syedRedhan" height="20" width="20" /></a>
+  &nbsp;
 <a href="https://www.linkedin.com/in/redhan-syed-2a3722111/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syedRedhan" height="20" width="20" /></a>
+  &nbsp;
 <a href="https://www.facebook.com/Dr.Redpulse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="syedRedhan" height="20" width="20" /></a>
+  &nbsp;
 <a href="https://www.instagram.com/red.py/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="syedRedhan" height="20" width="20" /></a>
 </p>
